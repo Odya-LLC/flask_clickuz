@@ -14,7 +14,7 @@ long_description = """
 Click.uz integration for Flask
 
 ## Links
-* [About ClickUz](https://business.payme.uz/)
+* [About ClickUz](https://click.uz/)
 * [ClickUz Docs](https://docs.click.uz/)
 
 ## How it Works
@@ -136,7 +136,7 @@ This project is licensed under the MIT License (see the `LICENSE` file for detai
 
 setup(
     name='Flask-ClickUz',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/Odya-LLC/flask_clickuz',
     license='MIT',
     author='odya',
