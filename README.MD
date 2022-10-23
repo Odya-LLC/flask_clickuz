@@ -101,7 +101,7 @@ Select data from models
 
 ```python
 click.model # Click_Transaction 
-Click_Transaction = paycom.model
+Click_Transaction = click.model
 transaction = Click_Transaction.query.all() # You can select or filter data
 ```
 
