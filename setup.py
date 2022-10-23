@@ -8,7 +8,6 @@ from setuptools import setup
 
 long_description = """
 # Flask-ClickUz
-![Construction](https://img.shields.io/badge/under-construction-red?style=flat-square)
 > Only for Uzbekistan
 
 
