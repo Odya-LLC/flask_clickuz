@@ -1,5 +1,5 @@
-class ClickUz_Errors():
-    
+class ClickUz_Errors:
+    errors = {}
     def __init__(self):
         self.errors = {
             "0" : "Success",
@@ -13,7 +13,5 @@ class ClickUz_Errors():
             "-8" : "Error in request from click",
             "-9" : "Transaction cancelled"
         }
-        
     def get_error(self, error):
-        
         return self.errors.get(str(error))
